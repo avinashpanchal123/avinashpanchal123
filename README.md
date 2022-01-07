@@ -15,4 +15,4 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashpanchal123)](https://github.com/anuraghazra/github-readme-stats)
 
-Skills: HTML | CSS |  Javascript | Node Js | React Js 
+![Design and Developement](https://github.com/avinashpanchal123/avinashpanchal123/blob/main/skills%20and%20tools.PNG)
