@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**avinashpanchal123/avinashpanchal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Avinash Panchal an aspiring full stack web developer with amazing problem solving skills. Love Data Structure and Algorithms. I have an interest in building logical and convenient features in websites. Looking forward to upgrade my skills and apply them to build user-friendly applications.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on React
 - 🌱 I’m currently learning MERN Stack, Data Structures and Algorithms  
-- 👯 I’m looking to collaborate on <h2>Open Source Projects <h2/>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on <b>Open Source Projects <b/>
 - 📫 How to reach me: sharda123avi@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashpanchal123)](https://github.com/anuraghazra/github-readme-stats)
+
