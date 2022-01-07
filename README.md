@@ -12,3 +12,4 @@ I am Avinash Panchal an aspiring full stack web developer with amazing problem s
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashpanchal123)](https://github.com/anuraghazra/github-readme-stats)
 
+Skills: HTML | CSS |  Javascript | Node Js | React Js 
