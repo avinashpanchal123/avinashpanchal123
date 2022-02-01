@@ -9,7 +9,7 @@ I'am Avinash Panchal
 - 🌱 I’m currently learning MERN Stack, Data Structures and Algorithms  
 - 👯 I’m looking to collaborate on <b>Open Source Projects <b/>
 - 📫 How to reach me: sharda123avi@gmail.com
-- here is my portfolio link https://avinash-panchal-portfolio.dorik.io/
+ - look at my work <a href= "https://avinash-panchal-portfolio.dorik.io/">here</a>
   
   
 <h3 align="left">Connect with me:</h3>
