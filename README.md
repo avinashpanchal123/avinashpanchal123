@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'am Avinash Panchal
- An aspiring full stack web developer with amazing problem solving skills. Love Data Structure and Algorithms. I have an interest in building logical and convenient features in websites. Looking forward to upgrade my skills and apply them to build user-friendly applications.
+ an aspiring full stack web developer with amazing problem solving skills. Love Data Structure and Algorithms. I have an interest in building logical and convenient features in websites. Looking forward to upgrade my skills and apply them to build user-friendly applications.
 
 
 
