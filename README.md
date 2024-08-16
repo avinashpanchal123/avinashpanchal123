@@ -8,7 +8,7 @@ I'am Avinash Panchal
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning MERN Stack, Data Structures and Algorithms  
 - 👯 I’m looking to collaborate on <b>Open Source Projects <b/>
-- 📫 How to reach me: sharda123avi@gmail.com
+- 📫 How to reach me: avinash0702panchal@gmail.com
  - look at my work <a href= "https://avinash-panchal-portfolio.dorik.io/">here</a>
   
   
