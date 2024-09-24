@@ -1,24 +1,54 @@
-### Hi there 👋
+# 👋 Hi, I'm Avinash Panchal
+### Software Engineer | B.Sc (Data Science and Applications)
 
-I'am Avinash Panchal
- a full stack web developer with 2+ years of deveopment experience and amazing problem solving skills. Love Data Structure and Algorithms. I have an interest in building logical and convenient features in websites. Looking forward to upgrade my skills and apply them to build user-friendly applications.
+Enthusiastic and self-motivated Software Engineer with 2+ years of experience in developing and implementing software solutions. Proficient in multiple programming languages and platforms, with a strong understanding of the software development lifecycle. Seeking a challenging position where I can utilize my technical expertise to drive impactful results and contribute to the success of a dynamic team.
+
+---
+
+## 📞 Contact Me
+- **Phone:** +91 7517755739
+- **Email:** [avinsh0702panchal@gmail.com](mailto:avinsh0702panchal@gmail.com)
+- **Location:** Mumbai, Maharashtra
+- **Website:** [My Portfolio](https://avinash-panchal-portfolio.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/avinash-panchal](https://www.linkedin.com/in/avinash-panchal/)
+
+---
+
+## 🛠️ Tech Skills
+<p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Data%20Structures-00599C?style=flat&logo=geeksforges&logoColor=white" alt="Data Structures" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+---
+
+## 📚 Education
+- **B.Sc (Data Science and Applications)**  
+  *IIT Madras*  
+  *2023 - Present*
+
+- **Full Stack Web Development**  
+  *Masai School*  
+  *2021 - 2022*
+
+---
+
+## 💼 Work Experience
+
+### Cointab Software Pvt. Ltd. | Senior Software Engineer
+*May 2022 - Sept 2024*
+- Implemented an automated Git rollback feature with a fallback mechanism that automatically reverts the server to a stable version in case of unsuccessful code updates, minimizing downtime and preventing disruptions.
+- Designed and implemented a real-time monitoring feature to track and analyze CPU, RAM, and storage utilization, providing insights into system performance and enabling proactive optimization strategies.
+- Engineered a robust solution to format numbers according to diverse locales, enhancing user experience and ensuring compliance with regional conventions.
 
 
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning MERN Stack, Data Structures and Algorithms  
-- 👯 I’m looking to collaborate on <b>Open Source Projects <b/>
-- 📫 How to reach me: avinash0702panchal@gmail.com
- - look at my work <a href= "https://avinash-panchal-portfolio.vercel.app">here</a>
-  
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/avinash13166099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avinash13166099" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avinash-panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-panchal" height="30" width="40" /></a>
- <a href="mailto:sharda123avi@gmail.com" target="blank"><img align="center" src="https://img.search.brave.com/tLo9MQds31jkWnvXIkyqmmelnRaCTw7RQ51tK0HD_TM/rs:fit:512:512:1/g:ce/aHR0cDovL2ljb25z/Lmljb25hcmNoaXZl/LmNvbS9pY29ucy9j/b3JubWFudGhlM3Jk/L3BsZXgvNTEyL0Nv/bW11bmljYXRpb24t/Z21haWwtaWNvbi5w/bmc" alt="avinash-panchal" height="40" width="40" /></a>
+---
 
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashpanchal123)](https://github.com/anuraghazra/github-readme-stats)
-
-![Design and Developement](https://github.com/avinashpanchal123/avinashpanchal123/blob/main/skills%20and%20tools%2003.PNG)
+Feel free to connect with me or check out my work!
