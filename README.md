@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Avinash Panchal
-### Software Engineer | B.Sc (Data Science and Applications)
+### Software Engineer 
 
 Enthusiastic and self-motivated Software Engineer with 2+ years of experience in developing and implementing software solutions. Proficient in multiple programming languages and platforms, with a strong understanding of the software development lifecycle. Seeking a challenging position where I can utilize my technical expertise to drive impactful results and contribute to the success of a dynamic team.
 
