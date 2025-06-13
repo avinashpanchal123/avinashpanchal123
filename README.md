@@ -31,7 +31,7 @@ Enthusiastic and self-motivated Software Engineer with 2+ years of experience in
 ## 📚 Education
 - **B.Sc (Data Science and Applications)**  
   *IIT Madras*  
-  *2023 - Present*
+  *2024 - Present*
 
 - **Full Stack Web Development**  
   *Masai School*  
